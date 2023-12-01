@@ -1,6 +1,6 @@
 # SVR-PSO
 
-[SVR-PSO](https://github.com/SaadDAHMANI/SVR_PSO) is Matlab/Octave package to run hybrid Support Vector Regression and Particle Swarm Optimizer (SVR-PSO). This package uses LibSVM 3.25.
+[SVR-PSO](https://github.com/SaadDAHMANI/SVR_PSO) is Matlab/Octave package to run hybrid Support Vector Regression and Particle Swarm Optimizer (SVR-PSO). This package uses [LibSVM 3.25](https://www.csie.ntu.edu.tw/~cjlin/libsvm/).
 
 ## Acces to SVR-PSO
 You can find the code of [SVR-PSO](https://github.com/SaadDAHMANI/SVR_PSO/tree/main/matlab) inside the folder (./matlab).
